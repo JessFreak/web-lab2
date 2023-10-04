@@ -1,0 +1,42 @@
+footer {
+    position: absolute;
+    bottom: 0;
+    right: 0;
+}
+
+.header-text {
+    top: 3%;
+    text-align: right;
+}
+
+.footer-text {
+    top: 30%;
+}
+
+.header-text, .footer-text {
+    position: absolute;
+    right: 0;
+    margin-right: 3%;
+}
+
+.right {
+    position: absolute;
+    right: 0;
+    bottom: 15%;
+}
+
+.content {
+    top: 15%;
+    left: 15%;
+    position: absolute;
+}
+
+.content-2 {
+    left: 15%;
+    bottom: 15%;
+    position: absolute;
+}
+
+.tab-button {
+    display: block;
+}
