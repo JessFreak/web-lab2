@@ -16,10 +16,10 @@ header {
 }
 
 .right, .nav-bar {
-    width: 37%;
+    width: 45%;
 }
 
-.container {
+.main-content {
     display: flex;
     flex-direction: row;
 }

@@ -1,0 +1,35 @@
+header {
+    width: 100%;
+}
+
+footer {
+    width: 85%;
+}
+
+header, footer {
+    height: 15%;
+}
+
+.nav-bar {
+    height: 85vh;
+}
+
+.right {
+    height: 70vh;
+}
+
+.right, .nav-bar {
+    width: 15%;
+}
+
+.content {
+    height: 60vh;
+}
+
+.content-2 {
+    height: 10vh;
+}
+
+.content, .content-2 {
+    width: 70%;
+}

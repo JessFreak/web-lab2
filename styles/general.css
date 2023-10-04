@@ -18,17 +18,8 @@ body, head {
     font-weight: bold;
 }
 
-header {
-    width: 100%;
-}
-
-footer {
-    width: 85%;
-}
-
 header, footer {
     background-color: rgb(3, 73, 22);
-    height: 15%;
 }
 
 .header-text, .footer-text {
@@ -38,31 +29,17 @@ header, footer {
     width: 15rem;
 }
 
-.nav-bar {
-    height: 85vh;
-}
-
-.right {
-    height: 70vh;
+.header-text {
+    text-align: right;
 }
 
 .right, .nav-bar {
     background-color: #1E3A8A;
-    width: 15%;
-}
-
-.content {
-    height: 60vh;
-}
-
-.content-2 {
-    height: 10vh;
 }
 
 .content, .content-2 {
     border: solid;
     background-color: #444444;
-    width: 70%;
 }
 
 h1 {
